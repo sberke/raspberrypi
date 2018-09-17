@@ -1,4 +1,11 @@
-References for getting started with the Raspberry Pi
+Getting started with the Raspberry Pi
+
+Buying References
+Biased towards US and closer to home ordering (e.g. USA vs. shipping from China)
+Adafruit
+Canakit
+Pimori
+
 
 SD Cards
 Cross reference the compatibility wiki page wiki: https://elinux.org/RPi_SD_cards
