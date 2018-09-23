@@ -27,6 +27,10 @@ Cross reference the compatibility [wiki page](https://elinux.org/RPi_SD_cards)
 ## Controllers
 Retro gaming and controllers can get interesting.  Here are some notes on the matter.
 
+### Helpful Links
+
+* [evdev](https://python-evdev.readthedocs.io/en/latest/) [wikipedia](https://en.wikipedia.org/wiki/Evdev) -- Event Device
+
 ### Wii Controllers
 TODO
 
@@ -37,4 +41,6 @@ Number Munch?
 pygame
 --> the controller app
 
+# Sense Hat
+* SenseHat Emulator [download instructions](https://sense-emu.readthedocs.io/en/v1.0/install.html)
 
